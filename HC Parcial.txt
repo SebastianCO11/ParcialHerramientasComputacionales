@@ -1,0 +1,7 @@
+Al principio pensaba hacerlo con lo que ve comentado en el .PY, pero luego pense. "Si hago eso, preguntar por el precio es inutil", asi que no
+
+De los errores mas frecuentes fueron los de sintaxis.
+
+Luego de llegar a la mitad del proyecto, me di cuenta de que hacerlo todo a modo de lista seria un tanto complicado, por ello decidi solo aplicar esto a las variantes de producto, para poder realizar el bonus
+´
+Por otro lado, un error de alta frecuencia puede ser la digitacion de variables que no correspondan a las desiganadas
